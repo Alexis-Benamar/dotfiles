@@ -1,1 +1,3 @@
 # dotfiles
+
+My personal config files for zsh, prettier... 
